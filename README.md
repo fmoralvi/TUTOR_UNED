@@ -10,7 +10,9 @@ Thus, two types of Transformers architectures designed specifically for both tas
 
 In the case of topic prediction, a Zero-Shot architecture has been used; 
 which is a type of algorithm that allows learning classes that have not previously been seen.
-Below is a graphic representation of this type of architecture
+Below is a graphic representation of this type of architecture.
+
+
 
 <img src="./docs/assets/images/zero-shot.png" width=1000 height=400 align="center">
 
